@@ -1,3 +1,3 @@
 Dentro do loop while changed:, 
 sempre que se adiciona um ponto novo à memória, 
-recalculam-se os pesos das classes e a Correlação de Pearson. -> Demora muito tempo 
+recalculam-se os pesos das classes e a Correlação de Pearson
